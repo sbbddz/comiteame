@@ -1,4 +1,4 @@
-module comiteame
+module github.com/sbbddz/comiteame
 
 go 1.17
 

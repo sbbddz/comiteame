@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"os"
-  . "comiteame"
+  . "github.com/sbbddz/comiteame"
 )
 
 func main() {
