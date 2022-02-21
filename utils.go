@@ -6,7 +6,7 @@ import (
 )
 
 func CheckError(err error) {
-	if err != nil {
+	if err == nil {
 		return
 	}
 
