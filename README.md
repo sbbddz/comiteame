@@ -5,12 +5,12 @@
 
 # English
 
-### ¿What is comiteame?
+### What is comiteame?
 My colleagues and I needed a way to do commits following our stablished semantic rules fast and intuitive.
 Thats why I'm developing this little go program, using the libraries [promptui](https://github.com/manifoldco/promptui) and
 [go-git](https://github.com/go-git/go-git).
 
-### ¿Cómo se usa?
+### How to use it?
 You can compile it by yourself if you have **go** in your computer. Just change dir to **cmd/comiteame/** and run **go build -o comiteame**
 
 Also, you can download a compiled-ready binary from the releases tab.
